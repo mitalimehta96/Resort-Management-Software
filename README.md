@@ -32,5 +32,7 @@ It should open another window with the Login page. Do not be alarmed if it does 
 Contributors for this project:
 
 Mitali Mehta, NMIMS' MPSTME College, Mumbai
+
 Vasvi Desai, NMIMS' MPSTME College, Mumbai
+
 Pritha Patel, NMIMS' MPSTME College, Mumbai
