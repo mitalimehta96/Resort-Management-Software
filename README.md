@@ -28,3 +28,9 @@ To RUN the project, go to the Login.java page
 Under that, go to the Source tab, next to the Design tab. There, right click and select the Run option.
 
 It should open another window with the Login page. Do not be alarmed if it does not show the files when you press the green run arrow. The project is funtional.
+
+Contributors for this project:
+
+Mitali Mehta, NMIMS' MPSTME College, Mumbai
+Vasvi Desai, NMIMS' MPSTME College, Mumbai
+Pritha Patel, NMIMS' MPSTME College, Mumbai
